@@ -1,6 +1,4 @@
-AnycontentDownloaderBot/
-├── bot.py
-├── requirements.txt
-├── render.yaml
-├── .env.example
-└── README.md
+pyTelegramBot API
+yt-dlp
+Flask
+requests
